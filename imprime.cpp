@@ -3,5 +3,5 @@
 using namespace std;
 
 int main(){
-    cout<<"Git"<<endl;
+    cout<<"Git com merge"<<endl;
 }
