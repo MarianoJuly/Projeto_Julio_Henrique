@@ -20,7 +20,16 @@ public class A{
         return this.A2;
     }
 
+    public void MA1(){
+        System.out.println("Teste A");
+    }
     
-
+    public void MA2(){
+        System.out.println("Teste A, mas metodo 2");
+    }
+    
+    public void MA3(){
+        System.out.println("Alteração a classe A partir do clone");
+    }
 
 }
