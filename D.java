@@ -3,10 +3,10 @@ public class D {
     private boolean D2;
 
     public void MD1(){
-        System.out.println("A");
+        System.out.println("Teste A");
     }
     
     public void MD2(){
-        System.out.println("B");
+        System.out.println("Teste B");
     }
 }
