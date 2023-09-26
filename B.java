@@ -13,7 +13,7 @@ public class B{
         this.B2 = y;
     }
 
-    public int getB1(){
+    public int getB1(){     
         return this.B1;
     }
     
@@ -29,6 +29,9 @@ public class B{
         System.out.println("Teste B, mas metodo 2");
     }
 
+    public void MB3(){
+        System.out.println("MB3");
+    }
 
 }
 
