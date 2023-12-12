@@ -4,6 +4,12 @@ public class A{
 
     public A(){}
 
+    //metodo do caio
+    public int getSoma(int a, int b){
+        return a+b;
+    }
+
+
     public void setA1(int x){
         this.A1 = x;
     }
@@ -32,8 +38,6 @@ public class A{
         System.out.println("Alteração a classe A partir do clone");
     }
 
-    public int getSoma(int a, int b){
-        return a+b;
-    }
+    
 
 }
